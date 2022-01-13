@@ -1,0 +1,4 @@
+A <mask> news: {} {}
+{} {} This topic is about <mask>.
+[Category: <mask>] {} {}
+[Topic: <mask>] {} {}

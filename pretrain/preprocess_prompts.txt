@@ -1,0 +1,4 @@
+'{} In this sentence, {} means <mask>.'
+'{} In this sentence, {<>} means <mask>.'
+'''In this sentence:"{}", {} means <mask>.'''
+'''In this sentence:"{}", {<>} means <mask>.'''

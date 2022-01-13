@@ -1,0 +1,4 @@
+{} {} is a <mask>.
+{} In this sentence, {} is a <mask>.
+{} The type of {} is <mask>.
+{} The category of {} is <mask>.
